@@ -1,8 +1,8 @@
 ## Data Structures and Algorithms
 Implementations of all major data structures and algorithms written from scratch in Python. 
-### Linked List
-### Double Linked List
-### Stack
+### - Linked List
+### - Double Linked List
+### - Stack
 Implemented as a linked list
-### Queue
+### - Queue
 Implemented as a linked list
