@@ -6,3 +6,5 @@ Implementations of all major data structures and algorithms written from scratch
 Implemented as a linked list
 ### - Queue
 Implemented as a linked list
+### - Bag
+Implemented as a linked list
