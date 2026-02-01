@@ -138,31 +138,3 @@ class LinkedList:
 
     def is_empty(self):
         return self._size == 0
-
-
-
-
-    
-ll = LinkedList()
-ll.insert_beginning(5)
-ll.insert_beginning(7)
-ll.insert_beginning(8)
-print(ll.to_list())
-print(ll)
-ll.insert_end(2)
-print(ll)
-print(ll.find(5))
-print(ll.find_node(5))
-ll.remove_beginning()
-for item in ll:
-    print(item)
-ll.remove_end()
-print(ll)
-ll.insert_beginning(20)
-print(ll)
-ll.remove(7)
-print(ll)
-print(ll.is_empty())
-ll.clear()
-print(ll)
-print(ll.is_empty())
